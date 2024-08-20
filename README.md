@@ -1,4 +1,4 @@
-# Issue H-1: Attacker will prevent distribution of USDC to stakers through frequent reward updates 
+# Issue M-1: Attacker will prevent distribution of USDC to stakers through frequent reward updates 
 
 Source: https://github.com/sherlock-audit/2024-07-kwenta-staking-contracts-judging/issues/22 
 
